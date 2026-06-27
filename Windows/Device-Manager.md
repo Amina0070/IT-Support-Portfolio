@@ -66,7 +66,7 @@ During this exercise, I learnt how Windows organises computer hardware within De
 
 I also learnt that Device Manager allows IT technicians to quickly identify hardware problems, check whether drivers are installed correctly and investigate devices that are not functioning as expected.
 
-One observation that interested me was that Windows displayed eight processor entries, even though my laptop's processor has four physical cores. After researching this, I learnt that my processor uses simultaneous multithreading (SMT), allowing Windows to recognise eight logical processors.
+One observation that interested me was that Windows displayed eight processor entries, even though my laptop's processor has four physical cores. I noticed Windows listed eight processor entries despite my processor having four physical cores. I learnt that this is because the AMD Ryzen 5 3500U supports simultaneous multithreading (SMT), allowing each physical core to handle two threads.
 
 This exercise improved my understanding of how Windows manages hardware and where technicians begin diagnosing hardware-related issues.
 
