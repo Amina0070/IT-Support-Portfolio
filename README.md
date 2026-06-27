@@ -1,42 +1,74 @@
 # IT Support Portfolio
 
-## About Me
+## 👋 About Me
 
-Hello! My name is [Your Name].
+Hello! My name is Amina.
 
-I created this portfolio to document my journey into IT Support and Cyber Security.
+I am an aspiring IT Support Technician with a long-term goal of building a career in Cyber Security.
 
-I am currently developing practical skills in:
-
-- Windows administration
-- Networking
-- Microsoft 365
-- Troubleshooting
-- Cyber Security fundamentals
-
-As I continue learning, I will regularly update this repository with notes, practical exercises, troubleshooting guides and projects.
+I created this portfolio to document the practical skills I am developing through independent learning. Rather than simply studying theory, I am using Windows tools and documenting my findings to better understand how IT professionals troubleshoot and manage computer systems.
 
 ---
 
-## Current Learning Objectives
+# Skills Being Developed
 
-- Improve Windows administration skills
-- Learn networking fundamentals
-- Develop troubleshooting techniques
-- Build strong documentation skills
-- Prepare for an IT Support Apprenticeship
-
----
-
-## Technologies
-
-- Windows 11
-- Microsoft Office
-- GitHub
-- Command Prompt
+- Windows Administration
+- Hardware Management
+- Networking Fundamentals
+- IT Troubleshooting
+- Technical Documentation
+- Git & GitHub
 
 ---
 
-## Career Goal
+# Portfolio Contents
 
-My long-term goal is to build a successful career in Cyber Security. I am currently focusing on developing strong IT Support foundations because I understand that they are essential for progressing into cybersecurity roles.
+## Windows
+
+- Task Manager
+- Device Manager
+
+## Networking
+
+- Basic Network Commands
+
+## Troubleshooting
+
+- (Coming Soon)
+
+## Microsoft 365
+
+- (Coming Soon)
+
+---
+
+# Current Projects
+
+- Exploring Windows administrative tools
+- Learning networking fundamentals using Command Prompt
+- Building an IT Support portfolio using GitHub
+
+---
+
+# Career Goal
+
+My goal is to begin my career in IT Support, gain hands-on industry experience and continue progressing towards a career in Cyber Security.
+
+I believe building strong IT fundamentals is essential before specialising in cyber security, and this portfolio demonstrates my commitment to continuous learning.
+
+---
+
+# Current Progress
+
+- [x] Task Manager
+- [x] Device Manager
+- [x] Basic Network Commands
+- [ ] Event Viewer
+- [ ] PowerShell Basics
+- [ ] Microsoft 365
+- [ ] Windows Virtual Machine
+- [ ] Active Directory Lab
+
+---
+
+Thank you for taking the time to view my portfolio.
