@@ -30,13 +30,45 @@ I observed my laptop's CPU, memory and disk usage to better understand how Windo
 
 ## Key Learning
 
-(Add your own observations here.)
+While monitoring my laptop's performance, I observed that my AMD Ryzen 5 3500U processor was operating with relatively low CPU usage, while memory usage remained consistently high at around 71–75%.
+
+My laptop has 8 GB of installed RAM, with Windows reporting 6.9 GB as usable and approximately 5.2 GB in use while the system was idle. This showed me that memory usage can remain high even when the processor is not under heavy load.
+
+This helped me understand that limited RAM can affect overall system responsiveness and multitasking performance. It also demonstrated why monitoring both CPU and memory usage is important when diagnosing performance issues.
 
 ---
 
 ## Why This Matters
 
 Task Manager allows IT technicians to quickly identify programs consuming excessive system resources and helps with troubleshooting performance issues.
+
+...
+
+## Example Troubleshooting Scenario
+
+### Problem
+
+A user reports that their laptop feels slow, even though no large applications are open.
+
+### Investigation
+
+An IT technician would open Task Manager and check:
+
+- CPU usage
+- Memory usage
+- Disk activity
+- Startup applications
+
+### Possible Findings
+
+In my case, I noticed that memory usage remained between 71–75% while CPU usage was relatively low. This suggests that limited available RAM could reduce performance when multiple applications are open.
+
+### Possible Resolution
+
+- Close unnecessary applications.
+- Disable unnecessary startup programs.
+- Restart the computer.
+- Consider upgrading the device from 8 GB to 16 GB RAM if performance issues continue.
 
 ---
 
