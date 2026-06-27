@@ -1,5 +1,9 @@
 # IT Support Portfolio
 
+> **Aspiring IT Support Technician | Future Cyber Security Professional**
+>
+> This repository documents my practical IT learning through hands-on exercises using Windows, Command Prompt, GitHub and networking tools.
+>
 ## 👋 About Me
 
 Hello! My name is Amina.
