@@ -25,24 +25,24 @@ I created this portfolio to document the practical skills I am developing throug
 
 ---
 
-# Portfolio Contents
+## Portfolio Contents
 
-## Windows
+### Windows
 
-- Task Manager
-- Device Manager
+- [Task Manager](Windows/Task-Manager.md)
+- [Device Manager](Windows/Device-Manager.md)
 
-## Networking
+### Networking
 
-- Basic Network Commands
+- [Basic Network Commands](Networking/Basic-Network-Commands.md)
 
-## Troubleshooting
+### Troubleshooting
 
-- (Coming Soon)
+- Coming Soon
 
-## Microsoft 365
+### Microsoft 365
 
-- (Coming Soon)
+- Coming Soon
 
 ---
 
